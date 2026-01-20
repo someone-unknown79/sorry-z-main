@@ -139,9 +139,13 @@ export default function LetterPage({ setCurrentPage }) {
             transition={{ duration: 0.8, delay: 1.8 }}
             className="text-lg text-pink-200 leading-relaxed max-w-lg mx-auto"
           >
-            I know these things can't undo the things in past what I did, but I need you to know
-             that you mean everything to me. I've been thinking about all our moments together, 
-             and I realize how much I've hurt the most precious & special person in my life. I promise to behave gently for you.✨
+            I know these things can't undo the things in past, but I need you to know
+             that "i loved you". I've been thinking about all our moments together, 
+             and I realize how much I've hurt the most cutiest & sweetest person in my life. 
+             I promise to behave gently for you.✨
+             
+             "Teri Akheh Btati hai, Tujhe Mujhse Mohabat hai
+             Magar Dil ki Tasali Ko, Zara Izhaar Ho Jata"
           </motion.p>
           <motion.p
             initial={{ opacity: 0, y: 10 }}
